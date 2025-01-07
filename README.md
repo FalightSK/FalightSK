@@ -9,11 +9,10 @@
 
 <h3><b>🏆Pulication of the Year 2024🏆</b></h3>
 
+Here are the list of my favorite publications in 2024 // Exciting to see what new in 2025
 - https://arxiv.org/abs/2407.03320 (Novel fusion model technique in architecture and training)
 - https://arxiv.org/abs/2410.11190 (Novel fusion model technique in framework and pipeline)
 - https://arxiv.org/abs/2412.09871 (Novel data repersenatation technique)
-
-// Exciting to see what new in 2025
 
 <h3><b>📝Research Interest📝</b></h3>
 
