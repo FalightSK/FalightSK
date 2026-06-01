@@ -3,6 +3,7 @@
 <h3><b>About Me</b></h3>
 
 - 🤖 Top 5% fresh graduated student in Robotics and AI engineering at KMITL (2022 - 2026)
+- 🌱 Partime co-founder @[Kuztom-AI](https://kuztom.ai/) and Fulltime software engineer @[LINE Thailand](https://www.linecorp.com/th/)
 - 👀 I’m particularly interested in **"System Design"** and **"Machine Learning"**
 - 🤓 Experties in **Machine Learning Algorithms**,  **Data Science**, and **Agentic System**
 
