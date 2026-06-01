@@ -2,14 +2,13 @@
 
 <h3><b>About Me</b></h3>
 
-- 🤖 3rd year student in Robotics and AI engineering at KMITL, Thailand 
+- 🤖 Top 5% fresh graduated student in Robotics and AI engineering at KMITL (2022 - 2026)
 - 👀 I’m particularly interested in **"System Design"** and **"Machine Learning"**
-- 🌱 Starting a Startup named **KuztomAI**
-- 🤓 Experties in **Self-Supervise Transformer** and **Agentic Work Flow**
+- 🤓 Experties in **Machine Learning Algorithms**,  **Data Science**, and **Agentic System**
 
-<h3><b>🏆Pulication of the Year 2024🏆</b></h3>
+<h3><b>🏆 My favorite publications and technical reports 🏆</b></h3>
 
-Here are the list of my favorite publications in 2024 // Exciting to see what new in 2025
+> 2024
 - https://arxiv.org/abs/2407.03320 (Novel fusion model technique in architecture and training)
 - https://arxiv.org/abs/2410.11190 (Novel fusion model technique in framework and pipeline)
 - https://arxiv.org/abs/2412.09871 (Novel data representation technique)
@@ -17,8 +16,8 @@ Here are the list of my favorite publications in 2024 // Exciting to see what ne
 <h3><b>📝Research Interest📝</b></h3>
 
 - Data representation for multi-modal GenAI
-- Efficiency in NLP dataset condensation
-- Zero-shot Agentic work flow integration
+- Vision Language Action
+- Zero-shot / Few-shot Agentic work flow integration
 
 <!---
 FalightSK/FalightSK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
