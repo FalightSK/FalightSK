@@ -2,8 +2,9 @@
 
 <h3><b>About Me</b></h3>
 
-- 🤖 Rank 5 fresh graduated student in Robotics and AI engineering at KMITL (2022 - 2026)
-- 🌱 Software Engineer Intern @[LINE Thailand](https://www.linecorp.com/th/) | Ex-CERN Summer Student 2025
+- 🎓 Rank 5 fresh graduated student in Robotics and AI engineering at KMITL (2022 - 2026)
+- 🧑‍💻 Software Engineer Intern @[LINE Thailand](https://www.linecorp.com/th/)
+- 🌱 Ex-[CERN](https://home.cern/summer-student-programme/) Summer Student 2025
 - 👀 I’m particularly interested in **"Machine Learning"** and **"System Design"**
 - 🤓 Experties in **Machine Learning Algorithms**, **Agentic System**, **Software Development**
 
